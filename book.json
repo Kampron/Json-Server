@@ -14,4 +14,38 @@
       "body": "fantastic"
     }
   ]
-}
+},
+ {
+    _id: ObjectId("62bd6340fcfab1387029ecbc"),
+    title: 'The Way of Kings',
+    author: 'Brandon Sanderson',
+    rating: 9,
+    pages: 400,
+    genres: [ 'fantasy' ],
+    reviews: [
+      { name: 'Yoshi', body: 'Great Book!!' },
+      { name: 'Mario', body: 'So So good' }
+    ]
+  },
+  {
+    _id: ObjectId("62bd72ccfcfab1387029ecbe"),
+    title: 'Strange man',
+    author: 'Chival Yung',
+    rating: '2',
+    genres: [ 'horror', 'tragedy' ],
+    reviews: [ { name: 'Jude', body: 'tragic' }, { name: 'Ken', body: 'sad' } ],
+    pages: '777'
+  },
+  {
+    _id: ObjectId("62bd72ccfcfab1387029ecc0"),
+    title: 'Heaven sent',
+    author: 'Jullie Ayatey',
+    rating: 9,
+    genres: [ 'animation', 'magic', 'loove', 'crime', 'war', 'thriller' ],
+    reviews: [
+      { name: 'Anima', body: 'love it' },
+      { name: 'Moley', body: 'Best book ever' },
+      { name: 'Adwoa', body: 'Enticing' }
+    ],
+    pages: 890
+  }
