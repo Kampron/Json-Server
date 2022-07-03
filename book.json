@@ -16,7 +16,6 @@
   ]
 },
  {
-    _id: ObjectId("62bd6340fcfab1387029ecbc"),
     title: 'The Way of Kings',
     author: 'Brandon Sanderson',
     rating: 9,
@@ -28,7 +27,6 @@
     ]
   },
   {
-    _id: ObjectId("62bd72ccfcfab1387029ecbe"),
     title: 'Strange man',
     author: 'Chival Yung',
     rating: '2',
@@ -37,7 +35,6 @@
     pages: '777'
   },
   {
-    _id: ObjectId("62bd72ccfcfab1387029ecc0"),
     title: 'Heaven sent',
     author: 'Jullie Ayatey',
     rating: 9,
