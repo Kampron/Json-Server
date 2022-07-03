@@ -16,11 +16,11 @@
   ]
 },
 {
-  "title": 'Strange man',
-  "author": 'Chival Yung',
-  "rating": '2',
-  "genres": [ 'horror', 'tragedy' ],
-  "reviews": [ { name: 'Jude', body: 'tragic' }, { name: 'Ken', body: 'sad' } ],
+  "title": "Strange man",
+  "author": "Chival Yung",
+  "rating": 2,
+  "genres": [ "horror", "tragedy" ],
+  "reviews": [ { "name": "Jude", "body": 'tragic' }, { "name": "Ken", "body": "sad" } ],
   "pages": 777
 },
 {
@@ -29,9 +29,9 @@
   "rating": 9,
   "genres": [ 'animation', 'magic', 'loove', 'crime', 'war', 'thriller' ],
   "reviews": [
-    { name: 'Anima', body: 'love it' },
-    { name: 'Moley', body: 'Best book ever' },
-    { name: 'Adwoa', body: 'Enticing' }
+    {"name": "Anima", "body": "love it"},
+    {"name": "Moley", "body": 'Best book ever" },
+    {"name": "Adwoa", "body": "Enticing" }
   ],
   "pages": 890
 }
