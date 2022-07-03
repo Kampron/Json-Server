@@ -1,0 +1,17 @@
+{
+  "title": "The rival's band",
+  "author": "Mercy Topp",
+  "rating": 10,
+  "genres": ["magic", "drama"],
+  "pages": 204,
+  "review": [
+    {
+      "name": "Tony",
+      "body": "sad movie"
+    },
+    {
+      "name": "Lukeman",
+      "body": "fantastic"
+    }
+  ]
+}
